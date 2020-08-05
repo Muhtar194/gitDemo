@@ -3,5 +3,7 @@ public class HappyB20 {
 
         System.out.println(" I love my batch ");
         System.out.println("I like java class ");
+
+        System.out.println("Hello Wednesday!");
     }
 }
